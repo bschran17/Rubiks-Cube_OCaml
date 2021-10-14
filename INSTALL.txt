@@ -1,0 +1,23 @@
+Steps for installation:
+  1. Download the zip file
+  2. Unzip the zip file 
+  3. If ANSITerminal is not already installed, run "opam install ANSITerminal"
+  4. Navigate to the new directory from the terminal
+  5. In the terminal, run "make build"
+  7. In the terminal, run "make play" to start the interaction with the command 
+    line
+  8. The directions for the cube will display in the terminal. There are many
+    different ways to view and manipulate the cube, as explained in the terminal. 
+  9. To make a turn on the cube, enter "turn". The terminal will ask for the 
+      face and direction that you want to turn.
+  10. To scramble the cube using random moves, enter "scramble"
+  11. To see an unfolded view of the cube, type "unfolded" 
+  12. To see all faces of the cube individually, enter "all_faces" or enter the
+      name of a face to see only that face.
+  13. To execute an orientation shift, enter "cube_rotation"
+  14. To have the computer automatically solve the cube using the Beginner's 
+      Method, enter "solve"
+  15. To end the session, enter "quit"
+Note: Because the terminal uses emojis to print the layout of the cube, the print
+  functions may not work on Linux or Windows systems. (All members of this group
+  have Mac computers). A working Windows/Linux version has not yet been made.
