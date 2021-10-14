@@ -1,1 +1,1 @@
-# Rubiks-Cube_OCaml
+# final-project-cs-3110
