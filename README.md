@@ -1,1 +1,1 @@
-# final-project-cs-3110
+# This was an OCaml project created by myself and three other students at Cornell University. This project was written entirely in OCaml, a functional programming language. This project provides a terminal reprentation of a Rubik's Cube and allows for user inputted manipulation of the cube. We also implemented a solve generator that will produce a list of turns that will solve any scrambled Rubik's Cube.
